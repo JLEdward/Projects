@@ -1,0 +1,3 @@
+#All files Matches the Expressions here will be Ignored 
+*.txt
+GitIgnoreSamples
